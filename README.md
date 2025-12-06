@@ -10,23 +10,31 @@
 Berikut adalah tampilan hasil aplikasi Android:
 Berikut adalah tampilan hasil aplikasi Android:
 
-## Login
+## 1️⃣ Login Page
 ![Login](https://github.com/H1dayatulMangunah/Responsi-2-Flutter/blob/master/assets/login-Screenshot%202025-12-06%20224104.png)
 
-## Registrasi
+## 2️⃣ Registrasi Page
 ![Registrasi](https://github.com/H1dayatulMangunah/Responsi-2-Flutter/blob/master/assets/registrasi-Screenshot%202025-12-06%20224116.png)
 
-## Inventaris – Kosong / Saat Load API
+## 3️⃣ Inventaris — Loading / Kosong
 ![Inventaris API](https://github.com/H1dayatulMangunah/Responsi-2-Flutter/blob/master/assets/inventaris%2Capi-Screenshot%202025-12-06%20224457.png)
 
-## Inventaris – Berisi Data
+## 4️⃣ Inventaris — Berisi Data
 ![Inventaris List](https://github.com/H1dayatulMangunah/Responsi-2-Flutter/blob/master/assets/inventaris-Screenshot%202025-12-06%20224231.png)
+
+## 5️⃣ Update / Edit Inventaris
+![Update Inventaris](https://github.com/H1dayatulMangunah/Responsi-2-Flutter/blob/master/assets/Update-Screenshot%202025-12-06%20234401.png)
 
 ---
 
+# 🎥 Demo Aplikasi
 
-## 🎥 Demo Aplikasi — Tugas 2 (Pertemuan 3)
+Tonton demo aplikasi melalui link berikut:
 
-Video demo aplikasi dapat dilihat pada file berikut:  
+### 🔹 Video 1 (GitHub)
+➡️ https://github.com/H1dayatulMangunah/Responsi-2-Flutter/blob/master/assets/demo-Recording%202025-12-06%20233201_mp4.mp4
 
-![Demo Tugas 2 Pertemuan 3](assets/Demo%20Tugas%202-Screen%20Recording%202025-09-19%20223112.gif.gif)
+### 🔹 Video 2 (Google Drive) — HD Quality
+➡️ https://drive.google.com/file/d/1pn3YMnXI4O8yUJKWxbZQ_9bJFJgcNXrU/view?usp=sharing
+
+> Jika video tidak dapat diputar pada GitHub, silakan gunakan link Google Drive agar kualitas tetap maksimal.
