@@ -7,14 +7,22 @@
 **Responsi 2 Praktikum Pemrograman Mobile**
 
 # 📸 Dokumentasi
-Tugas 1-4 Pemrograman Mobile  
-
+Berikut adalah tampilan hasil aplikasi Android:
 Berikut adalah tampilan hasil aplikasi Android:
 
-## Screenshot Tugas 1 Pertemuan 2
-![Tampilan Logo](assets/Logo%20Masuk%20Screenshot_20250928_213822.png)
-![Tampilan Awal](assets/Tampilan%20Awal%20Screenshot_20250919_222142.png)
+## Login
+![Login](https://github.com/H1dayatulMangunah/Responsi-2-Flutter/blob/master/assets/login-Screenshot%202025-12-06%20224104.png)
 
+## Registrasi
+![Registrasi](https://github.com/H1dayatulMangunah/Responsi-2-Flutter/blob/master/assets/registrasi-Screenshot%202025-12-06%20224116.png)
+
+## Inventaris – Kosong / Saat Load API
+![Inventaris API](https://github.com/H1dayatulMangunah/Responsi-2-Flutter/blob/master/assets/inventaris%2Capi-Screenshot%202025-12-06%20224457.png)
+
+## Inventaris – Berisi Data
+![Inventaris List](https://github.com/H1dayatulMangunah/Responsi-2-Flutter/blob/master/assets/inventaris-Screenshot%202025-12-06%20224231.png)
+
+---
 
 
 ## 🎥 Demo Aplikasi — Tugas 2 (Pertemuan 3)
