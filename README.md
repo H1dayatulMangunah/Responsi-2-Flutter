@@ -6,8 +6,10 @@
 **Shift Baru: E**
 **Responsi 2 Praktikum Pemrograman Mobile**
 
+# Penjelasan
+Singkatnya disini saya membuat project flutter dengan menggunakan API dengan supabase dan CI4. Yang untuk penjelasan detailnya ada di Video.
+
 # 📸 Dokumentasi
-Berikut adalah tampilan hasil aplikasi Android:
 Berikut adalah tampilan hasil aplikasi Android:
 
 ## 1️⃣ Login Page
